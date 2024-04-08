@@ -9,7 +9,7 @@ let main = {
         4: ["Han" , "Kokuō(Five-tails)" , "Iwagakure (Hidden Stone Village)\n"],
         5: ["Utakata" , "Saiken(Six-tails)" , "Kirigakure (Hidden Mist Village)\n"],
         6: ["Fū" , "Chōmei(Seven-tails)" , "Takigakure (Hidden Waterfall Village)\n"],
-        7: ["Killer Be" , "Gyūki(Eight-tails)" , "Kumogakure (Hidden Cloud Village)\n"],
+        7: ["Killer Bee" , "Gyūki(Eight-tails)" , "Kumogakure (Hidden Cloud Village)\n"],
         8: ["Naruto Uzumaki" , "Kurama(nine-tails)" , "Konohagakure (Hidden Leaf Village)\n"],
     }
 
