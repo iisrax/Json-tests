@@ -22,8 +22,8 @@ function generateList(main){
     console.log("-------------------\n")
 
     for(let index in main.list){
-        let [jinju, bijuu, Village] = main.list[index]
-        console.log(`— ${jinju}: ${bijuu} • ${Village}`)
+        let [jinju, bijuu, village] = main.list[index]
+        console.log(`— ${jinju}: ${bijuu} • ${village}`)
     }
 
 }
